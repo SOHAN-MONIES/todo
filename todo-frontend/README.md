@@ -10,7 +10,7 @@ A full-stack Todo application built with **Node.js**, **Express**, **MongoDB**, 
 Click the button below to copy the command and clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/SOHAN-MONIES/todo>
 ```
 
 ---
@@ -98,7 +98,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ### 💬 Questions or Suggestions?
-Feel free to [open an issue](https://github.com/username/repo/issues) or contact me via email at `your-email@example.com`.
+Feel free to [open an issue](https://github.com/SOHAN_MONIES/todo/issues) or contact me via email at `anon.marvin.sohan@gmail.com`.
 
 ---
 
