@@ -41,7 +41,7 @@ npm install
 Run the following command inside the `todo-backend` directory:
 
 ```bash
-npm start
+node index.js
 ```
 
 ### Start the Frontend Application
