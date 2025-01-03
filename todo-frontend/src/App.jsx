@@ -49,6 +49,7 @@ const App = () => {
 
   return (
     <div className="app">
+         
       <h1>Todo List</h1>
       <input
         type="text"
@@ -69,6 +70,9 @@ const App = () => {
             <button onClick={() => deleteTodo(todo._id)}>Delete</button>
           </li>
         ))}
+      <aside>
+      This is aside tag
+      </aside>
       </ul>
     </div>
   );
